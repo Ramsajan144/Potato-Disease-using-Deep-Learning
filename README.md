@@ -10,7 +10,7 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 
 ##  Features
 
-1. Image Processing and Analysis: Utilizes image processing techniques to capture and analyze leaf images, identifying visible symptoms like spots, lesions, or discoloration indicative of disease.
+1.Image Processing and Analysis: Utilizes image processing techniques to capture and analyze leaf images, identifying visible symptoms like spots, lesions, or discoloration indicative of disease.
 
 2.Machine Learning Classification: Implements machine learning algorithms (e.g., Convolutional Neural Networks) to classify potato leaf images into healthy or diseased categories based on visual patterns.
 
@@ -32,7 +32,7 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 
 4.Python as the primary programming language for development.
 
-5. streamlit  for web-based or mobile app deployment.
+streamlit  for web-based or mobile app deployment.
    
 
 
