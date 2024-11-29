@@ -25,10 +25,15 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 ##  Technologies Used
 
 1.Image Processing (OpenCV, PIL) for leaf image analysis.
+
 2.Machine Learning (TensorFlow, Keras, Scikit-learn) for training models.
+
 3.Deep Learning (Convolutional Neural Networks - CNNs) for accurate disease classification.
+
 4.Python as the primary programming language for development.
+
 5. streamlit  for web-based or mobile app deployment.
+   
 
 
 
